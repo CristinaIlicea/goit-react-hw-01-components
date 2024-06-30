@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CristinaIlicea/goit-react-hw-01-components/static/css/main.b87514ff.css",
+    "main.js": "/CristinaIlicea/goit-react-hw-01-components/static/js/main.5a9bc161.js",
+    "index.html": "/CristinaIlicea/goit-react-hw-01-components/index.html",
+    "main.b87514ff.css.map": "/CristinaIlicea/goit-react-hw-01-components/static/css/main.b87514ff.css.map",
+    "main.5a9bc161.js.map": "/CristinaIlicea/goit-react-hw-01-components/static/js/main.5a9bc161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87514ff.css",
+    "static/js/main.5a9bc161.js"
+  ]
+}
