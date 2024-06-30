@@ -1,0 +1,14 @@
+.profile{
+    margin: 8px;
+    padding: 12px 16px;
+    border-radius: 4px;
+    background-color: gray;
+    color: white;
+}
+.span.isoOnline{
+    margin: 8px;
+    padding: 12px 16px;
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+}
